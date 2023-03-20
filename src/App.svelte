@@ -2,8 +2,8 @@
 </script>
 
 <main>
-  <div>
-    <p>Hello world!</p>
+  <div class="flex justify-center">
+    <h1 class="text-xl">hello world</h1>
   </div>
 </main>
 
